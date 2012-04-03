@@ -19,6 +19,7 @@
    		<init-param>
     		<param-name>ExpiresDefault</param-name><param-value>access plus 1 month</param-value>
  		</init-param>
+ 		<!--  TODO: This should be setup within the application to set Cache-Control: no-cache, must-revalidate -->
  		<init-param>
           <param-name>ExpiresByType text/html</param-name>
           <param-value>access plus 0 seconds</param-value>
