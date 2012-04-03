@@ -3,6 +3,7 @@ This is an example setup to run Tomcat on Heroku. Now it uses the webapp-runner 
 
 # Running it local
 ```mvn clean install```
+
 ```java -jar target/dependency/webapp-runner.jar target/*.war```
 
 # Running within Eclipse
