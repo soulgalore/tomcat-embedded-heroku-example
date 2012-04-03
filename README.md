@@ -17,3 +17,8 @@ https://github.com/jsimone/webapp-runner
 4. Add the Heroku as a remote ```git remote add heroku git@heroku.com:tomcat-tst.git```
 5. Push it: ```git push heroku master```
 6. Access your application: http://tomcat-tst.herokuapp.com/
+
+# TODO
+* Adding servlet with right expire header
+* Add explenation of setup
+* Add gzip through servlet.xml
