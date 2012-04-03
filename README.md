@@ -21,4 +21,4 @@ https://github.com/jsimone/webapp-runner
 # TODO
 * Adding servlet with right expire header
 * Add explenation of setup
-* Add gzip through servlet.xml
+* Add gzip for java pages through servlet.xml
