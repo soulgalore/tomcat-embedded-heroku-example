@@ -5,6 +5,6 @@
     	<title>Tomcat on Heroku</title>
 	</head>
 <body>
-<%=8*25%>
+<p>Woho Tomcat is up and running! 8*25=<%=8*25%></p>
 </body>
 </html>
